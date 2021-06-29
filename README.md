@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola gente OwO, Soy Thanshuny Wolf 👋
+Este es mi github donde comparto el codigo crudito *caldo...* de mis proyectos.
+
+Todo lo que publique aqui estara disponible de forma gratuita y para que puedas modificarlo 
+y Añadir nuevas cosas.
+
+Bye UWU
 
 [![ThanshunyWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanshuny&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
