@@ -1,5 +1,8 @@
-### Hola gente OwO, Soy Thanshuny Wolf 👋
+### Hola gente 👋≧◉ᴥ◉≦
+### -> Soy Thanshuny Wolf y soy desarrollador de videojuegos 👋
+
 Este es mi github donde comparto el codigo de mis proyectos.
+(っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 [![ThanshunyWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanshunyWolf&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
