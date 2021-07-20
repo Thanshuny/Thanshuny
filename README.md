@@ -1,5 +1,5 @@
 ### Hola gente 👋≧◉ᴥ◉≦
-### -> Soy Thanshuny Wolf y soy desarrollador de videojuegos 👋
+### -> Soy Thanshuny Wolf y soy desarrollador de videojuegos Indie ^w^
 
 Este es mi github donde comparto el codigo de mis proyectos.
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
