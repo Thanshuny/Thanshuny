@@ -1,5 +1,7 @@
 ### Hola gente 👋≧◉ᴥ◉≦
 ### -> Soy Thanshuny Wolf y Soy Desarrollador de Videojuegos Indie ^w^
+![](https://img.shields.io/twitter/@Thanshuny_Wolf?color=white&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fthe_hirin)
+
 
 Este es mi github donde comparto el codigo de mis proyectos.
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
