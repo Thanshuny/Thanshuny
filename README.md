@@ -3,7 +3,7 @@
 
 <a href="https://twitter.com/Thanshuny_Wolf">Twitter: @Thanshuny_Wolf</a>
 
-Este es mi github donde comparto el codigo de mis proyectos.
+Este es mi github donde comparto el codigo de mis proyectos y alguna que otra practica que hago.
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 [![ThanshunyWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanshunyWolf&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
