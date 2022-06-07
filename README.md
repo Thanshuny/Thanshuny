@@ -7,7 +7,12 @@ Este es mi github donde comparto el codigo de mis proyectos y alguna que otra pr
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 
-Main language :D:
+Main lenguajes:<br/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+
 
 -Social-<br/>
 ![Twitter](https://img.shields.io/twitter/follow/Thanshuny_Wolf?label=Thanshuny_Wolf&style=social)
