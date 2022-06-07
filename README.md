@@ -45,7 +45,9 @@
 
 
 <!--labels-->
-<p align="center">&nbsp;
+<center>
+<p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&locale=en" alt="thanshunywolf" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&show_icons=true&locale=en&layout=compact" alt="thanshunywolf" />
 </p>
+</center>
