@@ -7,9 +7,9 @@ Este es mi github donde comparto el codigo de mis proyectos y alguna que otra pr
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 
-Main lenguajes:<br/>
+Main lenguajes<br/>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://www.php.net//images/logos/new-php-logo.svg" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 
