@@ -7,12 +7,6 @@ Este es mi github donde comparto el codigo de mis proyectos y alguna que otra pr
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 
-
-[![ThanshunyWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanshunyWolf&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ThanshunyWolf Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanshunyWolf&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Main language :D:
 
 Social:
