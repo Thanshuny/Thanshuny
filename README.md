@@ -1,5 +1,5 @@
 ### Hola AnimalesCibertauticos 👋≧◉ᴥ◉≦
-### -> Soy Thanshuny Wolf y Programador Novato UwU y Desarrollador de Videojuegos Indie ^w^
+### -> Soy Thanshuny Wolf y Programador Novato e Desarrollador de Videojuegos Indie ^w^
 
 <a href="https://twitter.com/Thanshuny_Wolf">Twitter: @Thanshuny_Wolf</a>
 
