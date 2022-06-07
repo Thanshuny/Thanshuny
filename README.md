@@ -1,12 +1,13 @@
 <h1 align="center">🥭!!Mangos!! 🥭<br/> Soy Thanshuny_Wolf</h1>
-<h3 align="center">Un desarrollador de videojuegos, programador, artista y musico Protolobote amante de mangos. uwu</h3>
+<h3 align="center">Un desarrollador de videojuegos, programador, artista y musico Protolobote amante de mangos. uwu</h3><br/>
+<h1 align="center"></h1>
 
 <p align="center"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> 
  </p> 
 
 
 <!--ENgines-->
-<h3 align="center" style:"border-bottom: 1px solidvar(--color-border-muted);">Montores que uso:</h3>
+<h3 align="center">Montores que uso:</h3>
 <p align="center">
 <a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/gamemaker_icon_132357.png" alt="unity" width="40" height="40"/> </a>
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png?20170822201738" alt="unity" width="40" height="40"/> </a>
