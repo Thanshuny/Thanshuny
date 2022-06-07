@@ -1,5 +1,5 @@
 <h1 align="center">🥭!!Mangos!! 🥭<br/> Soy Thanshuny_Wolf</h1>
-<h3 align="center">Un desarrollador de videojuegos, programador, artista y musico furro protogen amante de mangos. uwu</h3>
+<h3 align="center">Un desarrollador de videojuegos, programador, artista y musico Protolobote amante de mangos. uwu</h3>
 
 <p align="center"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> 
  </p> 
@@ -46,6 +46,6 @@
 
 <!--labels-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&show_icons=true&locale=en&layout=compact" alt="thanshunywolf" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&show_icons=true&locale=en&layout=compact" alt="thanshunywolf" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&locale=en" alt="thanshunywolf" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanshunywolf&" alt="thanshunywolf" /></p>
