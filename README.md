@@ -9,17 +9,24 @@
 <!--ENgines-->
 <h3 align="center">Montores que uso:</h3>
 <p align="center">
-<a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/gamemaker_icon_132357.png" alt="unity" width="40" height="40"/> </a><br/>
+<a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi-loadzone.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fyoyo_logo_512.jpg&f=1&nofb=1" alt="gamemaker" width="40" height="40"/> </a><br/>
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png?20170822201738" alt="unity" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-xp" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6ded0954-c083-45cf-a8e5-b47390e9b280/d54whq5-dfa4017e-8775-4503-bdc2-fe37136d9e98.png" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<!--tools-->
+<!--Herramientas-->
 <h3 align="center">Herramientas que manejo:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<p align="center"> 
+<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aseprite.org%2Fassets%2Fimages%2Fhead.gif&f=1&nofb=1" alt="aseprite" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fjaviscomputers.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlender_logo_no_text.svg_.png%3Fssl%3D1&f=1&nofb=1" alt="blender" width="48" height="40"/> </a>
+<a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8un8EADoK_nHfnNGj7fS2QHaHa%26pid%3DApi&f=1" alt="fl_studio" width="40" height="40"/> </a>
+<a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F02%2Finkscape-logo-2.png&f=1&nofb=1" alt="inkscape" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.imagensempng.com.br%2Fwp-content%2Fuploads%2F2020%2F12%2Fpremiere.png&f=1&nofb=1" alt="adobe_premier" width="40" height="40"/> </a>
+<a href="http://www.famitracker.com/" target="_blank" rel="noreferrer"> <img src="https://softradar.com/static/products/famitracker/famitracker-logo.jpg" alt="famitracker" width="40" height="40"/> </a>
 <p/>
-<!--Languajes-->
+
+<!--Lenguajes-->
 <h3 align="center">Tecnologias que manejo:</h3>
 <!--html-->
 <p align="center">
@@ -43,6 +50,7 @@
 <!--php-->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ozone3d.net%2Fpublic%2Fgeeks3d%2FOpenGL_500.png&f=1&nofb=1" alt="glsl" width="80" height="40"/> </a>
 
 <!--labels-->
 <h3 align="center">_Github Stats_</h3>
