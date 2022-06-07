@@ -1,10 +1,7 @@
 ### Hola AnimalesCibertauticos 👋≧◉ᴥ◉≦
 ### -> Soy Thanshuny Wolf y Programador Novato e Desarrollador de Videojuegos Indie ^w^
+Este es mi github donde comparto el codigo de mis proyectos y alguna que otra practica que hago. (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
-<a href="https://twitter.com/Thanshuny_Wolf">Twitter: @Thanshuny_Wolf</a>
-
-Este es mi github donde comparto el codigo de mis proyectos y alguna que otra practica que hago.
-(っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
 
 Main lenguajes<br/>
