@@ -6,6 +6,8 @@
 Este es mi github donde comparto el codigo de mis proyectos y alguna que otra practica que hago.
 (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ )
 
+![Twitter](https://img.shields.io/twitter/follow/Thanshuny_Wolf?label=Thanshuny_Wolf&style=social)
+
 [![ThanshunyWolf GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanshunyWolf&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ThanshunyWolf Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanshunyWolf&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
