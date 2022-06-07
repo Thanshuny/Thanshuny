@@ -39,16 +39,15 @@
 <!--mongoDB-->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!--php-->
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <!---mysql->
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
 
 <!--labels-->
-<h3 align="center">_Github Stats</h3>_
+<h3 align="center">_Github Stats_</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&locale=en" alt="thanshunywolf" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanshunywolf&" alt="thanshunywolf" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&show_icons=true&locale=en&layout=compact" alt="thanshunywolf" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&layout=compact&theme=vue&hide_border=true" />
 </p>
+
