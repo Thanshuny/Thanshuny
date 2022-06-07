@@ -1,9 +1,9 @@
 <h1 align="center">🥭!!Mangos!! 🥭<br/> Soy Thanshuny_Wolf</h1>
 <h3 align="center">Un desarrollador de videojuegos, programador, artista y musico furro protogen amante de mangos. uwu</h3>
 
-<p align="left"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> </p>
-<p align="center"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> </p>
-<p align="right"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> 
+ <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> 
+ <a href="https://twitter.com/thanshuny_wolf" target="blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?logo=twitter&style=for-the-badge" alt="thanshuny_wolf" /></a> </p>
 
 
 <!--ENgines-->
