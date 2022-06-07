@@ -45,7 +45,7 @@
 
 
 <!--labels-->
-<h3 align="center">Github Stats</h3>
+<h3 align="center">Github Stats</h3><hr/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&locale=en" alt="thanshunywolf" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanshunywolf&" alt="thanshunywolf" />
