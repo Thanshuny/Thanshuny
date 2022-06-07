@@ -9,7 +9,7 @@ Este es mi github donde comparto el codigo de mis proyectos y alguna que otra pr
 
 Main language :D:
 
-Social:
+-Social-<br/>
 ![Twitter](https://img.shields.io/twitter/follow/Thanshuny_Wolf?label=Thanshuny_Wolf&style=social)
 
 <!--
