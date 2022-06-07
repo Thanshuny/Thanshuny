@@ -41,9 +41,10 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 <!---mysql->
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<>
 
 
+
+<h3 align="center">Github Stats</h3>
 <!--labels-->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&locale=en" alt="thanshunywolf" />
