@@ -1,5 +1,5 @@
 <h1 align="center">🥭!!Mangos!! 🥭<br/> Soy Thanshuny_Wolf</h1>
-<h3 align="center">Un desarrollador de videojuegos, programador, artista y musico Protolobote amante de mangos.<br/> /*UwU*\</h3>
+<h3 align="center">Un desarrollador de videojuegos y pixelartista Protolobote amante de mangos.<br/> /*UwU*\</h3>
 <h1 align="center"></h1>
 
 <p align="center"> <a href="https://twitter.com/thanshuny_wolf" target="_blank"><img src="https://img.shields.io/twitter/follow/thanshuny_wolf?color=%231da1f2&label=Twitter&style=flat-square" alt="thanshuny_wolf" /></a> <a href="https://thanshuny-wolf.itch.io/" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=Itchio&style=flat-square&url=https%3A%2F%2Fthanshuny-wolf.itch.io%2F" alt="thanshuny_wolf" /></a>
