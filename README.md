@@ -10,7 +10,7 @@
 <!--ENgines-->
 <h3 align="center">Montores que uso:</h3>
 <p align="center">
-<a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi-loadzone.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fyoyo_logo_512.jpg&f=1&nofb=1" alt="gamemaker" width="40" height="40"/> </a><br/>
+<a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" alt="gamemaker" width="40" height="40"/> </a><br/>
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png?20170822201738" alt="unity" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-xp" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6ded0954-c083-45cf-a8e5-b47390e9b280/d54whq5-dfa4017e-8775-4503-bdc2-fe37136d9e98.png" alt="unity" width="40" height="40"/> </a>
