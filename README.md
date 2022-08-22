@@ -8,7 +8,7 @@
 
 
 <!--ENgines-->
-<h3 align="center">Montores que uso:</h3>
+<h3 align="center">Montor que uso:</h3>
 <p align="center">
 <a href="https://gamemaker.io/en/gamemaker" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png" alt="gamemaker" width="40" height="40"/> </a>
 
@@ -16,10 +16,7 @@
 <h3 align="center">Herramientas que manejo:</h3>
 <p align="center"> 
 <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aseprite.org%2Fassets%2Fimages%2Fhead.gif&f=1&nofb=1" alt="aseprite" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fjaviscomputers.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlender_logo_no_text.svg_.png%3Fssl%3D1&f=1&nofb=1" alt="blender" width="48" height="40"/> </a>
-<a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8un8EADoK_nHfnNGj7fS2QHaHa%26pid%3DApi&f=1" alt="fl_studio" width="40" height="40"/> </a>
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F02%2Finkscape-logo-2.png&f=1&nofb=1" alt="inkscape" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.imagensempng.com.br%2Fwp-content%2Fuploads%2F2020%2F12%2Fpremiere.png&f=1&nofb=1" alt="adobe_premier" width="40" height="40"/> </a>
 <a href="http://www.famitracker.com/" target="_blank" rel="noreferrer"> <img src="https://softradar.com/static/products/famitracker/famitracker-logo.jpg" alt="famitracker" width="40" height="40"/> </a>
 <p/>
 
@@ -38,8 +35,6 @@
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <!--node-->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<!--discordJS-->
-<a href="https://discord.js.org/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjasonhaxstuff.gallerycdn.vsassets.io%2Fextensions%2Fjasonhaxstuff%2Fdiscord-js-tools%2F0.0.3%2F1530824658924%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" alt="discord_js" width="40" height="40"/> </a>
 <!--php, mysql, prestashop-->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
