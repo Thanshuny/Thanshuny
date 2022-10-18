@@ -38,10 +38,3 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftous-logos.com%2Fwp-content%2Fuploads%2F2017%2F03%2FWordPress-Logo.png&f=1&nofb=1" alt="wordpress" width="50" height="40"/> </a>
 <a href="https://www.prestashop.com/en" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feligeunaweb.es%2Fwp-content%2Fuploads%2F2018%2F06%2Fprestashop-logo-png-transparent.png&f=1&nofb=1" alt="prestashop" width="40" height="40"/> </a>
-
-<!--labels-->
-<h3 align="center">_Github Stats_</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanshunywolf&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanshunywolf&layout=compact&theme=vue&hide_border=true" />
-</p>
-
