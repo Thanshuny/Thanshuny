@@ -19,7 +19,7 @@
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F02%2Finkscape-logo-2.png&f=1&nofb=1" alt="inkscape" width="40" height="40"/> </a>
 
 <!--Lenguajes-->
-<h3 align="center">Tecnologias que manejo:</h3>
+<h3 align="center">Tecnologias que manejo:</h3>3
 <!--js-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <!--sass-->
