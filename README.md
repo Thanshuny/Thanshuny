@@ -17,8 +17,6 @@
 <p align="center"> 
 <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aseprite.org%2Fassets%2Fimages%2Fhead.gif&f=1&nofb=1" alt="aseprite" width="40" height="40"/> </a>
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F02%2Finkscape-logo-2.png&f=1&nofb=1" alt="inkscape" width="40" height="40"/> </a>
-<a href="http://www.famitracker.com/" target="_blank" rel="noreferrer"> <img src="https://softradar.com/static/products/famitracker/famitracker-logo.jpg" alt="famitracker" width="40" height="40"/> </a>
-<p/>
 
 <!--Lenguajes-->
 <h3 align="center">Tecnologias que manejo:</h3>
