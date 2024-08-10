@@ -6,5 +6,5 @@
  <a href="https://gamejolt.com/@Thanshuny_Wolf" target="_blank"><img src="https://img.shields.io/twitter/url?color=0bdb16&label=Gamejolt&style=flat-square&url=https%3A%2F%2Fthanshuny-wolf.itch.io%2F" alt="thanshuny_wolf_gamejolt" /></a> </a> 
  </p> 
 
- Lo atualizare pronto... 
- :)
+ Actualizare esto cuando me acuerde...
+ :b
